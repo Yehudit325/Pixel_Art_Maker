@@ -12,6 +12,7 @@ input[type=text] {
 
 table {
     border-collapse: collapse;
+    margin: auto;
 }
 
 table, th, td {
