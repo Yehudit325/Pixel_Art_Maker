@@ -1,0 +1,11 @@
+.content {
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+input[type=text] {
+  width: 80px;
+  padding: 2px 2px;
+  margin: 5px 0;
+}
